@@ -110,6 +110,7 @@ public class TTCommonProxy {
         }
 			
 		//TurtleAPI.registerUpgrade(new FumeTool());
+        ComputerCraftAPI.registerUpgrade(new FumeTool());
 	}
 
 	public boolean isClient() {
