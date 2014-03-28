@@ -78,6 +78,7 @@ public class TTCommonProxy {
 		ModResearch.initResearch();
 	}
 
+
 	protected void initCCPeripherals() {
 		IPeripheralProvider handler = new PeripheralHandler();
 
